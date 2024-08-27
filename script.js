@@ -1,3 +1,7 @@
+function modoNoche() {
+    
+}
+
 
     function encrypt() {
       var originalText = document.getElementById("originalEncrypt").value.toLowerCase();
